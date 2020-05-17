@@ -1,8 +1,5 @@
 <template>
   <div id="app">
-    <IdenticonImage :theme="polkadot" />
-    <IdenticonImage :theme="substrate"/>
-    <IdenticonImage :theme="jdenticon"/>
     <IdenticonImage />
     <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
     <HelloWorld msg="Welcome to Your Vue.js + TypeScript App"/>
